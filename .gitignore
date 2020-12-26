@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/post-commit
+post-commit.so
+post-commit.dylib
+post-commit.dll
+post-commit.a
+post-commit.lib
+post-commit-test-*
+*.exe
+*.o
+*.obj
+*.lst

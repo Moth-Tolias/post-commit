@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Susan Tootill"
+	],
+	"copyright": "Copyright © 2020, Susan",
+	"description": "a git hook to send the commit message to a discord webhook",
+	"license": "AGPL-3.0 or later",
+	"name": "gittest"
+}
