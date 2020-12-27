@@ -1,6 +1,6 @@
 /*
  * post-commit - a git hook to send the last commit message to a discord webhook
- * Copyright (C) 2020  Susan Tootill
+ * Copyright (C) 2020 Susan Tootill
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published
