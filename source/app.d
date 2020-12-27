@@ -1,5 +1,5 @@
 /*
- * post-commit - a git hook to send the commit message to a discord webhook
+ * post-commit - a git hook to send the last commit message to a discord webhook
  * Copyright (C) 2020  Susan Tootill
  *
  * This program is free software: you can redistribute it and/or modify
